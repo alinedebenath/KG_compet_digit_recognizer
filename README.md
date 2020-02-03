@@ -1,2 +1,2 @@
-# KG_compet_digit_recognizer
+# Kaggle competition : digit recognizer
 Digit recognizer competition on Kaggle

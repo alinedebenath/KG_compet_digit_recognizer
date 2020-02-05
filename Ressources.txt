@@ -1,0 +1,12 @@
+﻿Ressources :
+https://www.kaggle.com/c/digit-recognizer/overview/tutorial
+http://ironhack.school/courses/course-v1:IRONHACK+DAPT+201906_PAR_PT2/courseware/c36289e68f4e4029a57c62cfbc5b8ec5/c0e2dd5ce641411faffe195a7fc7f894/5?activate_block_id=block-v1%3AIRONHACK%2BDAPT%2B201906_PAR_PT2%2Btype%40vertical%2Bblock%40faea430adbaf449ea4a1f5c1830ce32b
+https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html
+warning : use tensorflow.python.keras / for tf 1.3.1 : from tensorflow.contrib.keras.python.keras.utils import np_utils
+for tf 1.4.1 : from tensorflow.python.keras import utils
+https://www.kaggle.com/sinakhorami/digit-recognition-using-deep-learning
+https://www.kaggle.com/fchollet/simple-deep-mlp-with-keras/code
+https://medium.com/analytics-vidhya/neural-networks-for-digits-recognition-e11d9dff00d5
+https://keras.io/activations/
+https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/
+https://towardsdatascience.com/hyperparameter-optimization-with-keras-b82e6364ca53
